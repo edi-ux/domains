@@ -1,8 +1,9 @@
 {
   "owner": {
     "username": "edi-ux"
+    "email": "eduard.34@outlook.com"
   },
   "records": {
-    "TXT": "railway-verify=9bba94c1520dd15b6ce3bcf6bd90cc44554f1a2e065424dd1eece7c59e0f812a3"
+    "CNAME": "hsbrfxgc.up.railway.app"
   }
 }
